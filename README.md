@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xtrmcdr
+- 👋 Hi, I’m @xtrmcdr aka Shafiq Ramli
 - 👀 I’m (<strong>trying</strong> reeeeally hard to be) interested in coding.
 - 🌱 I’m currently learning full stack web dev.
 - 📫 Hit me <a href="https://twitter.com/mshafiqramli">@mshafiqramli</a> on Twitter
